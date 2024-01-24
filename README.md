@@ -1,6 +1,6 @@
 # WeatherChallenge
 
-![Screenflick Movie 57](https://github.com/jonathanavilap1/WeatherChallenge/assets/40183554/870320ef-dd4a-45d0-8bd6-b147752cc440)
+![demo](https://github.com/jonathanavilap1/WeatherChallengeHQ/assets/40183554/e69cbed5-3958-4b47-957d-74ebed638039)
 
 Weather Challenge for HQ
 
